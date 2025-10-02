@@ -1,0 +1,47 @@
+[
+    {
+        "SITE ID": "SITE01",
+        "HOSTNAME": "WLC-SITE01",
+        "IP ADDRESS": "192.168.1.10",
+        "MODEL": "C9800-80-K9",
+        "REGION": "Americas",
+        "CITY": "New York",
+        "TIMEZONE": "UTC-5"
+    },
+    {
+        "SITE ID": "SITE02",
+        "HOSTNAME": "WLC-SITE02",
+        "IP ADDRESS": "192.168.1.11",
+        "MODEL": "C9800-L-K9",
+        "REGION": "EMEA",
+        "CITY": "London",
+        "TIMEZONE": "UTC+0"
+    },
+    {
+        "SITE ID": "SITE03",
+        "HOSTNAME": "WLC-SITE03",
+        "IP ADDRESS": "192.168.1.12",
+        "MODEL": "C9800-CL-K9",
+        "REGION": "APAC",
+        "CITY": "Singapore",
+        "TIMEZONE": "UTC+8"
+    },
+    {
+        "SITE ID": "SITE04",
+        "HOSTNAME": "WLC-SITE04",
+        "IP ADDRESS": "192.168.1.13",
+        "MODEL": "C9800-40-K9",
+        "REGION": "Americas",
+        "CITY": "San Francisco",
+        "TIMEZONE": "UTC-8"
+    },
+    {
+        "SITE ID": "SITE05",
+        "HOSTNAME": "WLC-SITE05",
+        "IP ADDRESS": "192.168.1.14",
+        "MODEL": "C9800-L-C-K9",
+        "REGION": "EMEA",
+        "CITY": "Frankfurt",
+        "TIMEZONE": "UTC+1"
+    }
+]
